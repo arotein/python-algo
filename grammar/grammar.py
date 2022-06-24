@@ -1,8 +1,6 @@
 import collections
 import copy
-import dataclasses
 import datetime
-import time
 
 string = "안녕하세요"
 
@@ -73,13 +71,19 @@ print(li_ss)
 # arr[a:b:c] : a번index부터 b번index미만(= (b-1)번 index)까지 c간격으로 배열을 만듦
 # arr[::2] : 0번index부터 끝까지 2간격으로. -> 0, 2, 4, ... 번째 원소로 이루어진 배열을 만듦
 
+# 리스트 합치기
+# li_a + li_b 는 li_a.extend(li_b)와 같다
+
+# 같은 길이의 리스트 원소들끼리 덧셈
+# [li_a[k] + li_b[k] for k in range(len(li_a))]
+
 # list 원소들 sum, max, min
 li_sum = [1, 3, 5, 7, 9]
 print(sum(li_sum))
 print(max(li_sum))
 print(min(li_sum))
 
-# datetime관련 모듈.
+# datetime관련 모듈
 # time객체끼리는 연산이 안 됨. datetime + datetime 혹은 datetime + timedelta 는 연산 가능
 datetime = datetime.datetime(1, 1, 1, 3, 15, 0)
 print(datetime.hour)  # int로 반환

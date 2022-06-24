@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c8f7f055-724c-4b50-901b-ec766839efe4" name="변경" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6장.py" beforeDir="false" afterPath="$PROJECT_DIR$/algo_quiz/6장.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7장.py" beforeDir="false" afterPath="$PROJECT_DIR$/algo_quiz/7장.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coding_quiz.py" beforeDir="false" afterPath="$PROJECT_DIR$/algo_quiz/coding_quiz.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/grammar.py" beforeDir="false" afterPath="$PROJECT_DIR$/grammar/grammar.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lotto.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/lotto.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lotto_num.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/lotto_num.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_quiz/6장.py" beforeDir="false" afterPath="$PROJECT_DIR$/algo_quiz/6장.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grammar/grammar.py" beforeDir="false" afterPath="$PROJECT_DIR$/grammar/grammar.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,13 +32,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/9cksq/Desktop/python_coding/grammar"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/9cksq/Desktop/python_coding/grammar&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\9cksq\Desktop\python_coding\grammar" />
@@ -53,6 +48,34 @@
       <recent name="C:\Users\9cksq\Desktop\python_coding\grammar" />
       <recent name="C:\Users\9cksq\Desktop\python_coding\algo_quiz" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="test_code" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_coding" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/test_code.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test_code" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
